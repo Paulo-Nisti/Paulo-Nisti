@@ -78,7 +78,8 @@ Sou apaixonado por tecnologia e acredito no poder do conhecimento e inovação p
 
 <p>
   <img 
-    align="left" 
+    align="left"
+    fsdf
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 5px;" 
@@ -86,10 +87,28 @@ Sou apaixonado por tecnologia e acredito no poder do conhecimento e inovação p
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Nisti&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=7" 
+  />
+
+</p>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
