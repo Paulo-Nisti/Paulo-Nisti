@@ -9,9 +9,6 @@ Sou graduando em Defesa Cibernética pela Gran Faculdade e possuo diversos curso
 Sou apaixonado por tecnologia e acredito no poder do conhecimento e inovação para transformar realidades, impulsionar o progresso e melhorar a vida das pessoas por meio de soluções inteligentes e eficazes.
 
 ---
-
-<br/>
-
 ## 🤖 Linguagens e Tecnologias
 
 <img 
