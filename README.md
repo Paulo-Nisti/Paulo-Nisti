@@ -80,15 +80,15 @@ Sou apaixonado por tecnologia e acredito no poder do conhecimento e inovação p
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
+    height="180" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Paulo-Nisti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="190" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Nisti&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=7" 
   />
 
