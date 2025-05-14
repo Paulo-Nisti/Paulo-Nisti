@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Paulo Nisti, tenho 35 anos e sou natural de Fortaleza/CE. Atuo na área de Tecnologia da Informação há mais de 12 anos. Tenho sólida experiência em suporte técnico além de atuar em pericia digital. Atualmente, estou em transição de carreira para a área de desenvolvimento de software, motivado pela possibilidade de criar e manter soluções que gerem valor para os negócios.
+Me chamo Paulo Nisti, tenho 35 anos e sou natural de Fortaleza/CE. Atuo na área de Tecnologia da Informação há mais de 12 anos. Tenho sólida experiência em suporte técnico além de atuar como Perito Forense Computacional. Atualmente, estou em transição de carreira para a área de desenvolvimento de software, motivado pela possibilidade de criar e manter soluções que gerem valor para os negócios.
 
-Sou graduando em Defesa Cibernética pela Gran Faculdade e possuo diversos cursos na área de Computação Forense e Perícia Digital. Sempre tive grande entusiasmo e fascínio por aprender novas tecnologias e linguagens de programação. Ao longo de minha carreira sempre busquei aprimorar minhas habilidades técnicas (hard skills) quanto interpessoais (soft skills) com objetivo de resolver problemas através de soluções que atendam as necessidades e expectativas do cliente interno e externo.
+Sou graduando em Defesa Cibernética pela Gran Faculdade e possuo diversos cursos na área de Perícia Digital. Sempre tive grande entusiasmo e fascínio por aprender novas tecnologias e linguagens de programação. Ao longo de minha carreira sempre busquei aprimorar minhas habilidades técnicas (hard skills) quanto interpessoais (soft skills) com objetivo de resolver problemas através de soluções que atendam as necessidades e expectativas do cliente interno e externo.
 
 Sou apaixonado por tecnologia e acredito no poder do conhecimento e inovação para transformar realidades, impulsionar o progresso e melhorar a vida das pessoas por meio de soluções inteligentes e eficazes.
 
