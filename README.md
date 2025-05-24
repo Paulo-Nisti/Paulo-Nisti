@@ -93,7 +93,7 @@ Sou apaixonado por tecnologia e acredito no poder do conhecimento e inovação p
       alt="GitHub Stats" 
       height="200"
       width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Nisti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Nisti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
