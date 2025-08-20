@@ -3,8 +3,10 @@
 **`Desenvolvedor Front-End`**
 
 Me chamo Paulo Nisti, tenho 35 anos e sou natural de Fortaleza/CE. Trabalho na área de Tecnologia da Informação há mais de 12 anos, com sólida experiência em suporte técnico e service desk, além de atuar como Perito Forense Computacional em Tribunais de Justiça. Atualmente, estou em transição de carreira para Desenvolvimento de Software e Cloud Computing, motivado pelo desejo de criar soluções que gerem valor e impacto real para os negócios.	
-	Sou graduando em Segurança Cibernética pela Gran Faculdade e possuo formações complementares em perícia digital, linguagens de programação, lógica computacional e segurança da informação. Também obtive certificações em diferentes áreas da Tecnologia, refletindo meu entusiasmo em aprender continuamente e evoluir tanto minhas habilidades técnicas quanto interpessoais.	
-	Apaixonado por tecnologia, acredito no poder do conhecimento e da inovação para transformar realidades e melhorar a vida das pessoas por meio de soluções inteligentes e eficazes.
+	
+Sou graduando em Segurança Cibernética pela Gran Faculdade e possuo formações complementares em perícia digital, linguagens de programação, lógica computacional e segurança da informação. Também obtive certificações em diferentes áreas da Tecnologia, refletindo meu entusiasmo em aprender continuamente e evoluir tanto minhas habilidades técnicas quanto interpessoais.	
+
+Apaixonado por tecnologia, acredito no poder do conhecimento e da inovação para transformar realidades e melhorar a vida das pessoas por meio de soluções inteligentes e eficazes.
 
 <div> 
     <a href="https://www.linkedin.com/in/paulonisti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
