@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Paulo Nisti
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor`**
 
 Me chamo Paulo Nisti, tenho 35 anos e sou natural de Fortaleza/CE. Trabalho na área de Tecnologia da Informação há mais de 12 anos, com sólida experiência em suporte técnico e service desk, além de atuar como Perito Forense Computacional em Tribunais de Justiça. Atualmente, estou em transição de carreira para Desenvolvimento de Software e Cloud Computing, motivado pelo desejo de criar soluções que gerem valor e impacto real para os negócios.	
 	
